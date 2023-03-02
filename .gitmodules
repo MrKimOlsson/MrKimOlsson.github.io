@@ -10,3 +10,6 @@
 [submodule "JavaScript2-Examinerande-API-TodoList"]
 	path = JavaScript2-Examinerande-API-TodoList
 	url = https://github.com/MrKimOlsson/JavaScript2-Examinerande-API-TodoList
+[submodule "JavaScript2-Examinerande-Grupparbete"]
+	path = JavaScript2-Examinerande-Grupparbete
+	url = https://github.com/MrKimOlsson/JavaScript2-Examinerande-Grupparbete
