@@ -1,3 +1,6 @@
 [submodule "JavaScript1-TheGuessingGame-v1"]
 	path = JavaScript1-TheGuessingGame-v1
 	url = https://github.com/MrKimOlsson/JavaScript1-TheGuessingGame-v1
+[submodule "JavaScript1-Examinerande-Grupparbete-TheGuessingGame"]
+	path = JavaScript1-Examinerande-Grupparbete-TheGuessingGame
+	url = https://github.com/MrKimOlsson/JavaScript1-Examinerande-Grupparbete-TheGuessingGame
