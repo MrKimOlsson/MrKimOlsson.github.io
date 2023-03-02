@@ -4,3 +4,6 @@
 [submodule "JavaScript1-Examinerande-Grupparbete-TheGuessingGame"]
 	path = JavaScript1-Examinerande-Grupparbete-TheGuessingGame
 	url = https://github.com/MrKimOlsson/JavaScript1-Examinerande-Grupparbete-TheGuessingGame
+[submodule "JavaScript1-Examinerande-Uppgift2-Validering"]
+	path = JavaScript1-Examinerande-Uppgift2-Validering
+	url = https://github.com/MrKimOlsson/JavaScript1-Examinerande-Uppgift2-Validering
