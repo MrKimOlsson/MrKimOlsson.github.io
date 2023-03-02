@@ -7,3 +7,6 @@
 [submodule "JavaScript1-Examinerande-Uppgift2-Validering"]
 	path = JavaScript1-Examinerande-Uppgift2-Validering
 	url = https://github.com/MrKimOlsson/JavaScript1-Examinerande-Uppgift2-Validering
+[submodule "JavaScript2-Examinerande-API-TodoList"]
+	path = JavaScript2-Examinerande-API-TodoList
+	url = https://github.com/MrKimOlsson/JavaScript2-Examinerande-API-TodoList
