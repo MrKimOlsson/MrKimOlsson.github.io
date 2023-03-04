@@ -13,3 +13,6 @@
 [submodule "JavaScript2-Examinerande-Grupparbete"]
 	path = JavaScript2-Examinerande-Grupparbete
 	url = https://github.com/MrKimOlsson/JavaScript2-Examinerande-Grupparbete
+[submodule "Crap.com-a-comical-concept-website"]
+	path = Crap.com-a-comical-concept-website
+	url = https://github.com/MrKimOlsson/Crap.com-a-comical-concept-website
