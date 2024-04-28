@@ -16,3 +16,27 @@
 [submodule "Crap.com-a-comical-concept-website"]
 	path = Crap.com-a-comical-concept-website
 	url = https://github.com/MrKimOlsson/Crap.com-a-comical-concept-website
+[submodule "React-Todo-List"]
+	path = React-Todo-List
+	url = https://github.com/MrKimOlsson/React-Todo-List
+[submodule "React-Blog"]
+	path = React-Blog
+	url = https://github.com/MrKimOlsson/React-Blog
+[submodule "Backend-Examinerande-CMS"]
+	path = Backend-Examinerande-CMS
+	url = https://github.com/MrKimOlsson/Backend-Examinerande-CMS
+[submodule "JS3-Examinerade-Gruppuppgift-React-Firebase-eCommerce"]
+	path = JS3-Examinerade-Gruppuppgift-React-Firebase-eCommerce
+	url = https://github.com/MrKimOlsson/JS3-Examinerade-Gruppuppgift-React-Firebase-eCommerce
+[submodule "JS3-Examinerade-Individuelluppgift-React-Firebase-eCommerce-CMS"]
+	path = JS3-Examinerade-Individuelluppgift-React-Firebase-eCommerce-CMS
+	url = https://github.com/MrKimOlsson/JS3-Examinerade-Individuelluppgift-React-Firebase-eCommerce-CMS
+[submodule "Typescript-Forum-Examinerande-Gruppuppgift"]
+	path = Typescript-Forum-Examinerande-Gruppuppgift
+	url = https://github.com/MrKimOlsson/Typescript-Forum-Examinerande-Gruppuppgift
+[submodule "Typescript-React-eCommerce"]
+	path = Typescript-React-eCommerce
+	url = https://github.com/MrKimOlsson/Typescript-React-eCommerce
+[submodule "FrontendProjekt-Examinerande-Bostadsportal"]
+	path = FrontendProjekt-Examinerande-Bostadsportal
+	url = https://github.com/MrKimOlsson/FrontendProjekt-Examinerande-Bostadsportal
